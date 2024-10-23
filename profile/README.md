@@ -4,7 +4,6 @@
 
 ## Some of our open source software
 
-* [wirow](https://github.com/wirow-io/wirow-server)  A full featured self-hosted video web-conferencing platform. 
 * [iwnet](https://github.com/Softmotions/iwnet)      Pure C Asynchronous HTTP/IO library with websockets, SSL and routing.
 * [aws4](https://github.com/Softmotions/aws4)        AWS API HTTP client library in pure C
 * [ejdb2](https://github.com/Softmotions/ejdb)       Embeddable JSON Database engine C library.
@@ -13,6 +12,7 @@
 * [iwstart](https://github.com/Softmotions/iwstart)  Boilerplate generator for C projects based on iowow, iwnet, ejdb2 libraries.
 * [coc-class-css](https://github.com/Softmotions/coc-class-css) Vim/Neovim CoC CSS class completion plugin
 * [vim-dark-frost-theme](https://github.com/Softmotions/vim-dark-frost-theme) Dark color theme for Vim/Neovim
+* [wirow](https://github.com/wirow-io/wirow-server)  A full featured self-hosted video web-conferencing platform. 
 
 <!--
 **Here are some ideas to get you started:**
