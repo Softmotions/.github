@@ -4,7 +4,7 @@
 
 ## Some of our open source software
 
-* **[Autark](https://github.com/Softmotions/autark)    Autark – A self-contained build system for C/C++**
+* **[Autark](https://github.com/Softmotions/autark)    Autark – A self-contained build system**
 * **[iwnet](https://github.com/Softmotions/iwnet)    Pure C Asynchronous HTTP/IO library with websockets, SSL, HTTP proxy, and routing.**
 * [ejdb2](https://github.com/Softmotions/ejdb)       Embeddable JSON Database engine C library.
 * [iowow](https://github.com/Softmotions/iowow)      C11 utility library and high performant persistent key/value storage engine.
