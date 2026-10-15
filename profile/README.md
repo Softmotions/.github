@@ -8,10 +8,11 @@
 * **[iwnet](https://github.com/Softmotions/iwnet)    Pure C Asynchronous HTTP/IO library with websockets, SSL, HTTP proxy, and routing.**
 * [ejdb2](https://github.com/Softmotions/ejdb)       Embeddable JSON Database engine C library.
 * [iowow](https://github.com/Softmotions/iowow)      C11 utility library and high performant persistent key/value storage engine.
-* [aws4](https://github.com/Softmotions/aws4)        AWS API HTTP client library in C
-* [acdb](https://github.com/Softmotions/acdb)        Clang's C/C++ compile_commands.json generator for Arduino projects 
-* [coc-class-css](https://github.com/Softmotions/coc-class-css) Vim/Neovim CoC CSS class completion plugin
-* [vim-dark-frost-theme](https://github.com/Softmotions/vim-dark-frost-theme) Dark color theme for Vim/Neovim
+* [binn-c](https://github.com/Softmotions/binn-c)    Fast and lightweight C implementation of the BINN binary serialization format.
+* [aws4](https://github.com/Softmotions/aws4)        AWS API HTTP client library in C.
+* [acdb](https://github.com/Softmotions/acdb)        Clang's C/C++ compile_commands.json generator for Arduino projects.
+* [coc-class-css](https://github.com/Softmotions/coc-class-css) Vim/Neovim CoC CSS class completion plugin.
+* [vim-dark-frost-theme](https://github.com/Softmotions/vim-dark-frost-theme) Dark color theme for Vim/Neovim.
 
 <!--
 **Here are some ideas to get you started:**
